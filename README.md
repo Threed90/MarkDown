@@ -9,6 +9,7 @@
 * listitem 1
 * listitem 2
 * listitem 3
+- listitem 4
 
 ## Ordered with numbers:
 2. another listitem 1
